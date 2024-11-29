@@ -1,0 +1,2 @@
+4d207a98f7c1bcb277bf1e389d24f7c730a394ee4180a84e1cc78a821e03a9a6  registry.json
+e001d0d6363f7100c6f8a4b85aad5f92b297a79d10ff0b5d155126d2b4ed2dad  registry.json.zip
